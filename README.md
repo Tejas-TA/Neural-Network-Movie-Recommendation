@@ -1,1 +1,1 @@
-# Neural-Network-Movie-Recommendation-
+# Neural Network Movie Recommendation

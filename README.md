@@ -1,9 +1,9 @@
 # Neural Network based Movie Recommendation
 
 ## Project Walkthrough<br>
-### Movie recommendation is based on neural collaborative filterin technique. Movielens dataset consisting of 100K records is analyszed.<br><br>
+### Movie recommendation is based on the neural collaborative filtering technique. Movielens dataset consisting of 100K records is analyzed.<br><br>
 ### Phase 1 - Data preprocessing<br>
-1. Data Analysis and manipu;ation using pandas<br>
+1. Data Analysis and manipulation using pandas<br>
 2. Data Visualization using matplotlib<br>
 3. Test Train split<br>
 
@@ -11,15 +11,15 @@
 1. Created movie embedding path<br>
 2. Created user embedding path<br>
 3. Concatenated movie and user vectors<br>
-4. Weight initialization using random uniform technique<br>
+4. Weight initialization using the random uniform technique<br>
 5. Added 5 fully connected layers with activation function as ReLu<br>
 6. Adam optimizer used<br>
-7. Model is complied<br>
+7. Model has complied<br>
 
 ### Phase 3 - Training<br>
 1. Model is run for 18 epochs with verbosity 1<br>
 2. Achieved loss of 0.6<br>
-3. As seen below graph of Training error vs epoch, there is reduction in error continuously after epoch=5<br>
+3. As seen below graph of Training error vs epoch, there is a reduction in error continuously after epoch=5<br>
 
 <img width = "100%" height="100%" alt="Screenshot 2021-07-18 at 10 28 31 PM" src="https://user-images.githubusercontent.com/13360641/126075796-370b80ed-3230-4e2c-a04e-a619f190b73b.png">
 

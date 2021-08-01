@@ -30,8 +30,8 @@
 
 <hr>
     
-LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
 Email - tejasta@gmail.com <br>
+LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
 Blogs - https://tejasta.medium.com/ <hr>
 
 
